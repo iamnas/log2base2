@@ -3,6 +3,7 @@ import { Navbar } from "./components/layout/Navbar";
 import { Testimonial } from "./components/layout/Testimonial";
 import { CourseCarousel } from "./components/layout/CourseCarousel";
 import CodeWalkthrough from "./components/layout/CodeWalkthrough";
+import Footer from "./components/layout/Footer";
 
 // import { CodeWalkthrough } from "./components/layout/CodeWalkthrough";
 // import FeatureSection from "./components/layout/CodeWalkthrough";
@@ -22,6 +23,7 @@ function App() {
         <CodeWalkthrough />
 
         {/* <FeatureSection /> */}
+      <Footer />
       </main>
     </div>
   );
