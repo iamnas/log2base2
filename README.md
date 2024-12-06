@@ -1,6 +1,6 @@
 # Log2Base2 Learning Platform
 
-A modern web platform for programming education and skill development, built with Next.js, TypeScript, and Tailwind CSS.
+A modern web platform for programming education and skill development, built with React.js, TypeScript, and Tailwind CSS.
 
 ## 🚀 Features
 
@@ -8,7 +8,7 @@ A modern web platform for programming education and skill development, built wit
 - Responsive design that works across all devices
 - Modern and intuitive user interface
 - Course categories including:
-	- Data Structures & Algorithms
+ 	- Data Structures & Algorithms
 	- Python Programming
 	- Interview Preparation
 	- Front-end Development
@@ -17,7 +17,7 @@ A modern web platform for programming education and skill development, built wit
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Next.js
+- **Framework:** React.js
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **UI Components:** Custom components with Lucide React icons
